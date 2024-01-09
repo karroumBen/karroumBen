@@ -1,7 +1,8 @@
 
 # Hi 👋 I am Abdelkarim! 
-I am a software engineer with 5 years of experience with focus on frontend. I build web applications that serves thousands of users,
-I gained various experiences in my last company which was a startup. more than 10 various projects with different technologies.
+I am a software engineer with 8 years of experience and 5 years of professional experience with focus on frontend. I build web applications that serves thousands of users,
+I gained various experiences in my last company which was a startup based in Germany. I maintained and was responsible for more than 10 various, big projects and code bases with different technologies.
+I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, JavaScript and JQuery in 2014. Since then I was active at building web applications.
 
 - 🏢 I'm currently looking for a job
 - 🚀 I use daily: **JavaScript**, **React**, **Vue**,**Git**, **Bash**, **VS Code**
