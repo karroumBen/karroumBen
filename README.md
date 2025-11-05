@@ -1,20 +1,19 @@
 
 # Hi 👋 I am Abdelkarim! 
-I am a software engineer with 8+ years of experience including 5 years of professional experience with focus on frontend. I build web applications that serves thousands of users,
-I gained various experiences in my last company which was a startup based in Germany. I maintained and was responsible for more than 10 various, big projects and code bases with different technologies.
-I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, JavaScript and JQuery in 2014. Since then I was active at building web applications.
+I am a software engineer with 8+ years of experience including 6 years of professional experience with focus on frontend. I build web and mobile applications that serves thousands of users,
+I gained various experiences in my last company which was a startup based in Germany. I maintained and was responsible for more than 10 various, big projects and codebases with different technologies.
+I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, JavaScript and JQuery in 2014. Since then I was active in building web applications.
 
 - 🏢 I'm currently looking for a job
-- 🚀 I use daily: **JavaScript**, **React**, **Vue**,**Git**, **Bash**, **VS Code**
+- 🚀 I use daily: **JavaScript**, **Typescript**, **React**, **ReactNative**, **Vue**,**Git**, **Bash**, **VS Code**
 - 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Vue**, **MongoDB**, **Jenkins**, **GitHub**
-- ⚡️ Fun fact: I like to play soccer, ping pong and I love tenis
+- ⚡️ Fun fact: I like to play soccer, ping pong and I love tennis.
 
 # Technologies I use:
   ## Programming languages:
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
   ## Frameworks:
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -23,6 +22,7 @@ I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, 
   ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![ReactNative](https://img.shields.io/badge/Reat%20Native-%236DB33F.svg?style=for-the-badge&logo=react&logoColor=white&color=blue)
   
   ## Databases:
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,4 +55,5 @@ I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, 
   ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+  ![AWS](https://img.shields.io/badge/Amazon%20Web%20Services-%23000000.svg?style=for-the-badge&color=orange)
 
