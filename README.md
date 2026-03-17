@@ -1,12 +1,12 @@
 
 # Hi 👋 I am Abdelkarim! 
-I am a software engineer with 8+ years of experience including 6 years of professional experience with focus on frontend. I build web and mobile applications that serves thousands of users,
-I maintained and was responsible for more than 10 various, big projects and codebases with different technologies.
+I am a software engineer with 10 years of experience including 7 years of professional experience with focus on frontend. I build web and mobile applications that serves thousands of users,
+I maintained and was responsible for more dozens of various, big projects and codebases with different technologies.
 I started my programming journey with Pascal back in 2010 and learnt HTML, CSS, JavaScript and JQuery in 2014. Since then I was active in building web applications.
 
 - 🏢 I'm currently working a fulltime job as a frontend engineer
-- 🚀 I use daily: **JavaScript**, **Typescript**, **React**, **ReactNative**, **Vue**,**Git**, **Bash**, **VS Code**
-- 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Vue**, **MongoDB**, **Jenkins**, **GitHub**
+- 🚀 I use daily: **JavaScript**, **Typescript**, **React**, **ReactNative**, **Vue**,**Git**, **Bash**, **VS Code**, **Cursor**
+- 💻 I work using: **React**, **MaterialUI**, **ChakraUI**, **Vue**, **MongoDB**, **Jenkins**, **GitHub**, **AI Tech**
 - ⚡️ Fun fact: I like to play soccer, ping pong and I love tennis.
 
 # Technologies I use:
